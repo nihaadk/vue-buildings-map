@@ -2,6 +2,8 @@
 
 > Vue Buildings Map
 
+## [DEMO](vue-buildings-map.firebaseapp.com)
+
 ## Build Setup
 
 ``` bash
