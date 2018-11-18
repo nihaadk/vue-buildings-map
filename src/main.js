@@ -9,7 +9,7 @@ import * as VueGoogleMaps from "vue2-google-maps"
 // Import VueGoogleMaps component
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "",
+    key: "", // add you Google MAPS API Key
     libraries: "places" // necessary for places input
   }
 });
