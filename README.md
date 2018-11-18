@@ -11,7 +11,7 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# in the file main.js add you Google Maps API Key !!!
+# in the file /src/main.js add you Google Maps API Key !!!
 ```
 
 ## Built With
