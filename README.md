@@ -1,6 +1,6 @@
-# locatee
+# Vue Buildings Map
 
-> Locatee Build Map App
+> Vue Buildings Map
 
 ## Build Setup
 
@@ -18,5 +18,11 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue-buildings-map
+## Build with
+## Built With
+
+* [VueJS 2](https://vuejs.org/)
+* [Materializecss](https://materializecss.com/)
+* [Vue Google Maps](https://github.com/xkjyeah/vue-google-maps)
+
+
